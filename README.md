@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gfundire
 - 👀 I’m interested in Software Development and Data Analysis
-- 🌱 I’m currently learning Front End Development
+- 🌱 I’m a Meta certified Front End Developer
 - 💞️ I’m looking to collaborate on React and Vue projects
 - 📫 Email - gfundire@gmail.com
 - 📫 LinkedIn - https://www.linkedin.com/in/garikaif/
